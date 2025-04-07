@@ -25,7 +25,7 @@
 - ☁️ Currently learning and working with **AWS (EC2, S3, Lambda, SageMaker, Beanstalk)**  
 - 🔬 Interested in **IoT**, **Edge AI**, and real-world deployment of intelligent systems  
 - 💡 Always curious and open to learning new things and collaborating on exciting tech projects  
-- 📬 Reach me at: AmirhosseinKafilzadeh@gmail.com | www.linkedin.com/in/amirhossein-kafilzadeh-6bbab92a4
+- 📬 Reach me at: kiarashkafilzadeh@gmail.com | www.linkedin.com/in/amirhossein-kafilzadeh-6bbab92a4
 
 ---
 
